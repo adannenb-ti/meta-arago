@@ -60,6 +60,7 @@ UTILS_append_am64xx = " \
 
 UTILS_append_am62xx = " \
     pru-icss-src \
+    jailhouse-src \
 "
 
 EXTRA_LIBS = ""
